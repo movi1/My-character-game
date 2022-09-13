@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color:  #c0392b 
+    ;
+    text-align: center;
+}
+p {
+    text-align: center;
+    color: #212f3c
+    8a0a;
+   }
+
+input{
+color: #17202a ;
+background-color: #73c6b6;
+margin: 10px;
+border: 5px solid  #797d7f ;
+padding: 15px;
+width: 20%;
+font-size: medium;
+}
+
+h1  {
+    text-align: center;
+   background-color: #17202a ;
+   background-size: 50px;
+}
+
+img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    width: 40%;
+}
+.fa-3x {
+    color: black;
+    animation-duration: 2s;
+    opacity: fade 0,6;
+   animation-direction: alternate-reverse;
+  
+}
+.black-text {
+    color: black;
+    height: 50px;
+}
+div {
+color: #17202a;
+text-align: center;
+font-size: large;
+}
+ghost{
+    animation-duration: 10s;
+    text-align: center;
+}
